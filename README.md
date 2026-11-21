@@ -1,6 +1,6 @@
 # Our Team Project
 
-Project description: This is our first collaborative project.
+Project description: We are building a website using HTML and CSS.
 
 Team members:
 - Student A: Nikoloz Zubritski
